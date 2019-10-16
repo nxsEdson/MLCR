@@ -25,7 +25,7 @@ All the faces are detected and aligned using the [SeetaFace Engineer](https://gi
 
 ## Training
 
-In order to train your own model, you need to write your own dataloader, the image transforms used for training is in the 'main.py'. Losses used for training is in the loss file 
+In order to train your model, you need to write your own dataloader, the image transforms used for training is in the 'main.py'. Losses used for training is in the loss file 
 
 ## Testing
 
