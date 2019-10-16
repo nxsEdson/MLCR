@@ -7,7 +7,8 @@ This is the source code for paper
 NeurIPS 2019 </br>
 
 <img src="./img/pipeline.JPG" width = "600px" height = "250px" div align=left />
-#
+
+</br>
 
 ## Environment requirest
 
