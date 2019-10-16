@@ -33,11 +33,11 @@ We provided a model trained on EmotioNet for one testing. You can test it using 
 
 ## If you use this work, please cite our paper
 
-  @inproceedings{niu2019multi,
-  title={Multi-label Co-regularization for Semi-supervised Facial Action Unit Recognition.},
-  author={Niu, Xuesong and Han, Hu and Shan, Shiguang and Chen, Xilin},
-  booktitle= {Thirty-third Conference on Neural Information Processing Systems (NeurIPS)},
-  year={2019}
-  }
+    @inproceedings{niu2019multi,
+    title={Multi-label Co-regularization for Semi-supervised Facial Action Unit Recognition.},
+    author={Niu, Xuesong and Han, Hu and Shan, Shiguang and Chen, Xilin},
+    booktitle= {Thirty-third Conference on Neural Information Processing Systems (NeurIPS)},
+    year={2019}
+    }
 
 
