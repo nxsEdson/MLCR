@@ -6,7 +6,7 @@ This is the source code for paper
 [Xuesong Niu](https://nxsedson.github.io/), Hu Han, Shiguang Shan, Xilin Chen </br>
 NeurIPS 2019 </br>
 
-<img src="./img/pipeline.JPG" width = "600px" height = "250px" align=left />
+<img src="./img/pipeline.JPG" width = "600px" height = "250px" align=center />
 
 </br>
 
