@@ -8,8 +8,6 @@ NeurIPS 2019 </br>
 
 <img src="./img/pipeline.JPG" width = "600px" height = "250px" align=center />
 
-</br>
-
 ## Environment requirest
 
 This code is based on Python 2.7, Pytorch 0.4.1 and CUDA 8.0.
