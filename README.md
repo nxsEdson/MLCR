@@ -17,7 +17,7 @@ This code is based on Python 2.7, Pytorch 0.4.1 and CUDA 8.0.
 ## Database and testing protocol
 For EmotioNet database, please refer to [this link](http://cbcsl.ece.ohio-state.edu/dbform_emotionet.html). Please note that we are only able to download 20,722 manually-labeled face images. We randomly choose 15,000 images as the labeled training set, and the other manually-labeled images are used for testing. We perform the testing three times and report the average performance. Please refer to our paper for more information.
 
-For BP4D database, please refer to [this link](http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html). We conduct a subject-exclusive 3-fold cross-validation. The unlabeled training images used for experiments on BP4D are taken from the EmotioNet database.
+For BP4D database, please refer to [this link](http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html). We conduct a subject-exclusive 3-fold cross-validation. The division is in the protocol file. The unlabeled training images used for experiments on BP4D are taken from the EmotioNet database.
 
 ## Pre-processing 
 
