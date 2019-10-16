@@ -29,7 +29,7 @@ In order to train your model, you need to write your own dataloader, the image t
 
 ## Testing
 
-We provided a model trained on EmotioNet for one testing. You can test it using 'main.py'. The results of this model may be silghtly different from the results in our paper because we reported the average performance of the three testing. You can use it as a pre-trained model for your task.
+We provided a model trained on EmotioNet for one testing. You can test it using 'main.py'. The results of this model may be silghtly different from the results in our paper because we reported the average performance of the three testings. You can use it as a pre-trained model for your task.
 
 ## If you use this work, please cite our paper
 
