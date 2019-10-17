@@ -27,7 +27,7 @@ In order to train your model, you need to write your own dataloader. The image t
 
 ## Testing
 
-We provided a model trained on EmotioNet for one testing. You can download it from [Google Drive](https://drive.google.com/open?id=1NHXr4UW9eqKqmvPHV6HOAQTPK10KqeE9) or [Baidu Drive](https://pan.baidu.com/s/1PQqV_ConIP5HJG7cYRH3Wg&shfl=sharepset) and test it using 'main.py'. The results of this model may be silghtly different from the results in our paper because we reported the average performance of the three testings. You can use it as a pre-trained model for your task.
+We provided a model trained on EmotioNet for one testing. You can download it from [Google Drive](https://drive.google.com/open?id=1NHXr4UW9eqKqmvPHV6HOAQTPK10KqeE9) or [Baidu Drive](https://pan.baidu.com/s/1PQqV_ConIP5HJG7cYRH3Wg&shfl=sharepset), and test it using 'main.py'. The results of this model may be silghtly different from the results in our paper because we reported the average performance of the three testings. You can use it as a pre-trained model for your task.
 
 ## Contact
 
