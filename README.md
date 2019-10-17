@@ -38,7 +38,7 @@ If you have any problems or any further interesting ideas with this project, fee
     @inproceedings{niu2019multi,
     title={Multi-label Co-regularization for Semi-supervised Facial Action Unit Recognition.},
     author={Niu, Xuesong and Han, Hu and Shan, Shiguang and Chen, Xilin},
-    booktitle= {Thirty-third Conference on Neural Information Processing Systems (NeurIPS)},
+    booktitle= {Advances in Neural Information Processing Systems (NeurIPS)},
     year={2019}
     }
 
