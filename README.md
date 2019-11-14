@@ -2,9 +2,10 @@
 
 This is the source code for paper 
 
-"Multi-label Co-regularization for Semi-supervised Facial Action Unit Recognition." </br>
+[Multi-label Co-regularization for Semi-supervised Facial Action Unit Recognition.](https://arxiv.org/abs/1910.11012) </br>
 [Xuesong Niu](https://nxsedson.github.io/), Hu Han, Shiguang Shan, Xilin Chen </br>
 NeurIPS 2019 </br>
+
 
 <img src="./img/pipeline.JPG" width = "600px" height = "250px" align=center />
 
