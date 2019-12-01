@@ -66,7 +66,7 @@ transform_test = transforms.Compose([
 ###################################
 ########## network ################
 ###################################
-net = ResNet_GCN_two_views(AU_num=AU_num, AU_idx=AU_idx, output=1, fusion_mode=fusion_mode, database=database);
+net = ResNet_GCN_two_views(AU_num=AU_num, AU_idx=AU_idx, output=2, fusion_mode=fusion_mode, database=database);
 model_path = './model/EmotioNet_model.pth.tar';
 temp = torch.load(model_path);
 net.load_state_dict(temp['net'])
